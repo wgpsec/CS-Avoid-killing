@@ -1,4 +1,5 @@
-# CS-Avoid-killing
+<h1 align="center">CS-Avoid-killing 🏏</h1>
+
 CS免杀,包括python版和C版本的(经测试Python打包的方式在win10上存在bug,无法运行,Win7测试无异常
 
 V1.0: 目前测试可以过Defender/火绒的静杀+动杀,360还没测= =不想装360全家桶了,可以自行测试
@@ -15,7 +16,7 @@ V2.0: 开发成在线免杀平台(已完成)
 
 > PS: 在实际使用中发现图形化界面不利于和其他工具结合,相比之下命令行的方式更具有扩展性
 > 
-> 关于自己写的在线免杀平台,暂不考虑开源,主要是觉得目前的技术还比较薄弱,如果有师傅想体验可以联系我
+> 关于自己写的在线免杀平台,暂不考虑开源,主要是觉得目前的技术还比较薄弱,如果有想加入团队一起研发的师傅或者是想体验可以联系我
 
 V3.0: 想办法结合更多免杀技术(想去研究下进程注入/文件捆绑,不知道免杀效果怎样)
 
@@ -37,7 +38,7 @@ go: go
 
 ## 安装
 
-`git clone https://github.com/Gality369/CS-Avoid-killing.git`
+`git clone https://github.com/wgpsec/CS-Avoid-killing.git`
 
 ## 使用
 
